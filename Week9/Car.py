@@ -1,6 +1,6 @@
 class Car:
 
-    __hp = 100
+    __hp = 1000
 
     def __init__(self, color):
         self.__color = color
